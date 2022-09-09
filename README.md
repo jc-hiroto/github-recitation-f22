@@ -1,2 +1,2 @@
 # github-recitation-f22
-Fall 22 Git demo
+Five Guys has the best burgers!
